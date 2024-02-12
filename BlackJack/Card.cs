@@ -10,7 +10,11 @@
             this.value = value;
             this.suit = suit;
         }
-        //public string valueName;
-        //public string suitName;
+        //public void GetCard(Player player)
+        //{
+        //    Random rnd = new Random();
+        //    player.hand
+
+        //}
     }
 }

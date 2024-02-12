@@ -2,9 +2,9 @@
 {
     enum Suits
     {
-        Spades,
-        Hearts,
-        Clubs,
-        Diamonds
+        Пики,
+        Черви,
+        Трефы,
+        Бубе
     }
 }
